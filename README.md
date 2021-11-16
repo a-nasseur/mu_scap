@@ -11,7 +11,6 @@ the scripts gets the latest news cards attributes published on manchester united
 the script when excuted will returen a list of object _ids added the data base
 
 # screenshots
+db entries 
 
-
-
-
+![image](https://user-images.githubusercontent.com/86806128/141968758-8931aa79-41c1-4b4d-8301-23b06ff5c5ff.png)
