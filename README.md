@@ -8,6 +8,10 @@ Beautifulsoup scrapping library, urllib3 for http request, mongodb for data stor
 
 the scripts gets the latest news cards attributes published on manchester united website. the aim is the to get a small widget on my desktop using a gui app to display the lastest news directly every day on my desktop without having to browse
 
+the script when excuted will returen a list of object _ids added the data base
+
+# screenshots
+
 
 
 
